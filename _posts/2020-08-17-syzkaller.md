@@ -4,7 +4,7 @@ title:      About syzkaller
 subtitle:   syzkaller安装与原理
 date:       2020-08-17
 author:     ZX
-header-img: img/post-bg-debug.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Tools
