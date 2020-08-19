@@ -139,4 +139,6 @@ syzkaller同时使用覆盖率和模板来指导测试，既是基于变异也�
 
 ##### prog minimization
 
-找到prog最小化的等价prog。
+找到prog最小化的等价prog。（这个操作会在引发crash后执行）
+
+> It tries to remove all system calls one-by-one for simplification attempt.
