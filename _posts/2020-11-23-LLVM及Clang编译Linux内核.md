@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      LLVM/Clang编译Linux内核(得到bc文件)
+title:      LLVM和Clang编译Linux内核(得到bc文件)
 subtitle:   
 date:       2020-11-23
 author:     ZX
